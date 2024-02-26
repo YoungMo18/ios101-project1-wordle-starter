@@ -31,6 +31,13 @@ class ViewController: UIViewController {
      */
     // START YOUR CODE HERE
     // ...
+      keyboardController.didSelectString = { (selectString: String) in
+          if (selectString == DELETE_KEY) {
+              self.boardController.deleteLastCharacter()
+          } else {
+              self.boardController.enter(selectString)
+          }
+      }
     // END YOUR CODE HERE
   }
 }
