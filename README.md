@@ -29,16 +29,17 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/210018ed67ef4b218bff579d9932d587?sid=bc34e5f5-9aa0-4562-b908-816d314f0731
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Took a while to get used to closures
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Mo Putra]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
