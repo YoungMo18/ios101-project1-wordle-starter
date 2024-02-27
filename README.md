@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<div>
-    <iframe width="640" height="416" src="https://www.loom.com/embed/210018ed67ef4b218bff579d9932d587?sid=fad306d9-1426-4142-b4cc-dae83c9b3383" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<div/>
+<div style="position: relative; padding-bottom: 64.94708994708994%; height: 0;">
+    <iframe src="https://www.loom.com/embed/210018ed67ef4b218bff579d9932d587?sid=3521fbd1-093f-4cb1-af2c-c51c4431c16f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 ## Notes
